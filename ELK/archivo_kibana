@@ -1,0 +1,10 @@
+String Mes=new String();
+ if ( doc['MES'].value.length() < 2 ) {
+      Mes="0"+doc['MES'].value;
+    }		
+  else
+  {
+    Mes=doc['MES'].value
+  }
+String sDate1=doc['AÑO'].value+Mes;
+emit(Integer.parseInt(Mes))
