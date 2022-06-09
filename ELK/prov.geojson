@@ -5,7 +5,7 @@
             "type": "Feature",
             "properties": {
                 "country": "Ecuador",
-                "province": "Azuay",
+                "province": "AZUAY",
                 "iso_1": "EC",
                 "iso_2": "EC-A"
             },
@@ -18,7 +18,7 @@
             "type": "Feature",
             "properties": {
                 "country": "Ecuador",
-                "province": "Bolívar",
+                "province": "BOLIVAR",
                 "iso_1": "EC",
                 "iso_2": "EC-B"
             },
@@ -31,7 +31,7 @@
             "type": "Feature",
             "properties": {
                 "country": "Ecuador",
-                "province": "Carchi",
+                "province": "CARCHI",
                 "iso_1": "EC",
                 "iso_2": "EC-C"
             },
@@ -44,7 +44,7 @@
             "type": "Feature",
             "properties": {
                 "country": "Ecuador",
-                "province": "Cañar",
+                "province": "CAÑAR",
                 "iso_1": "EC",
                 "iso_2": "EC-F"
             },
@@ -57,7 +57,7 @@
             "type": "Feature",
             "properties": {
                 "country": "Ecuador",
-                "province": "Chimborazo",
+                "province": "CHIMBORAZO",
                 "iso_1": "EC",
                 "iso_2": "EC-H"
             },
@@ -70,7 +70,7 @@
             "type": "Feature",
             "properties": {
                 "country": "Ecuador",
-                "province": "Cotopaxi",
+                "province": "COTOPAXI",
                 "iso_1": "EC",
                 "iso_2": "EC-X"
             },
@@ -83,7 +83,7 @@
             "type": "Feature",
             "properties": {
                 "country": "Ecuador",
-                "province": "El Oro",
+                "province": "EL ORO",
                 "iso_1": "EC",
                 "iso_2": "EC-O"
             },
@@ -96,7 +96,7 @@
             "type": "Feature",
             "properties": {
                 "country": "Ecuador",
-                "province": "Esmeraldas",
+                "province": "ESMERALDAS",
                 "iso_1": "EC",
                 "iso_2": "EC-E"
             },
@@ -109,7 +109,7 @@
             "type": "Feature",
             "properties": {
                 "country": "Ecuador",
-                "province": "Galápagos",
+                "province": "GALAPAGOS",
                 "iso_1": "EC",
                 "iso_2": "EC-W"
             },
@@ -122,7 +122,7 @@
             "type": "Feature",
             "properties": {
                 "country": "Ecuador",
-                "province": "Guayas",
+                "province": "GUAYAS",
                 "iso_1": "EC",
                 "iso_2": "EC-G"
             },
@@ -135,7 +135,7 @@
             "type": "Feature",
             "properties": {
                 "country": "Ecuador",
-                "province": "Imbabura",
+                "province": "IMBABURA",
                 "iso_1": "EC",
                 "iso_2": "EC-I"
             },
@@ -148,7 +148,7 @@
             "type": "Feature",
             "properties": {
                 "country": "Ecuador",
-                "province": "Loja",
+                "province": "LOJA",
                 "iso_1": "EC",
                 "iso_2": "EC-L"
             },
@@ -161,7 +161,7 @@
             "type": "Feature",
             "properties": {
                 "country": "Ecuador",
-                "province": "Los Ríos",
+                "province": "LOS RIOS",
                 "iso_1": "EC",
                 "iso_2": "EC-R"
             },
@@ -174,7 +174,7 @@
             "type": "Feature",
             "properties": {
                 "country": "Ecuador",
-                "province": "Manabí",
+                "province": "MANABI",
                 "iso_1": "EC",
                 "iso_2": "EC-M"
             },
@@ -187,7 +187,7 @@
             "type": "Feature",
             "properties": {
                 "country": "Ecuador",
-                "province": "Morona Santiago",
+                "province": "MORONA SANTIAGO",
                 "iso_1": "EC",
                 "iso_2": "EC-S"
             },
@@ -200,7 +200,7 @@
             "type": "Feature",
             "properties": {
                 "country": "Ecuador",
-                "province": "Napo",
+                "province": "NAPO",
                 "iso_1": "EC",
                 "iso_2": "EC-N"
             },
@@ -213,7 +213,7 @@
             "type": "Feature",
             "properties": {
                 "country": "Ecuador",
-                "province": "Orellana",
+                "province": "ORELLANA",
                 "iso_1": "EC",
                 "iso_2": "EC-D"
             },
@@ -226,7 +226,7 @@
             "type": "Feature",
             "properties": {
                 "country": "Ecuador",
-                "province": "Pastaza",
+                "province": "PASTAZA",
                 "iso_1": "EC",
                 "iso_2": "EC-Y"
             },
@@ -239,7 +239,7 @@
             "type": "Feature",
             "properties": {
                 "country": "Ecuador",
-                "province": "Pichincha",
+                "province": "PICHINCHA",
                 "iso_1": "EC",
                 "iso_2": "EC-P"
             },
@@ -252,7 +252,7 @@
             "type": "Feature",
             "properties": {
                 "country": "Ecuador",
-                "province": "Santa Elena",
+                "province": "SANTA ELENA",
                 "iso_1": "EC",
                 "iso_2": "EC-SE"
             },
@@ -265,7 +265,7 @@
             "type": "Feature",
             "properties": {
                 "country": "Ecuador",
-                "province": "Santo Domingo",
+                "province": "SANTO DOMINGO DE LOS TSACHILAS",
                 "iso_1": "EC",
                 "iso_2": "EC-SD"
             },
@@ -278,7 +278,7 @@
             "type": "Feature",
             "properties": {
                 "country": "Ecuador",
-                "province": "Sucumbíos",
+                "province": "SUCUMBIOS",
                 "iso_1": "EC",
                 "iso_2": "EC-U"
             },
@@ -291,7 +291,7 @@
             "type": "Feature",
             "properties": {
                 "country": "Ecuador",
-                "province": "Tungurahua",
+                "province": "TUNGURAHUA",
                 "iso_1": "EC",
                 "iso_2": "EC-T"
             },
@@ -304,7 +304,7 @@
             "type": "Feature",
             "properties": {
                 "country": "Ecuador",
-                "province": "Zamora Chinchipe",
+                "province": "ZAMORA CHINCHIPE",
                 "iso_1": "EC",
                 "iso_2": "EC-Z"
             },
