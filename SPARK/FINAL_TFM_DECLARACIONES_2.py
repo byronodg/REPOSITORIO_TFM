@@ -16,7 +16,7 @@ spark = SparkSession\
 Declaraciones_StreamingDF =spark.readStream\
   .format("kafka")\
   .option("kafka.bootstrap.servers", "192.168.1.43:9092")\
-  .option("subscribe", "topic_DECLARACIONES1")\
+  .option("subscribe", "topic_DECLARACIONES")\
   .load()
 
 
@@ -159,5 +159,5 @@ def CONEXION_ELASTIC(df,epoch):
 
     pass
 
-escritura=parsedDF.writeStream.foreachBatch(CONEXION_ELASTIC).trigger(processingTime='60 seconds').start()
+escritura=parsedDF.writeStream.foreachBatch(CONEXION_ELASTIC).trigger(processingTime='30 seconds').start()
 
